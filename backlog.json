@@ -935,7 +935,7 @@
       "event": "Volta",
       "status": "progress",
       "cover": {
-        "type": "file",
+        "type": "github",
         "path": "covers/set_mpbc10lm5wica.jpg"
       },
       "photos": [
