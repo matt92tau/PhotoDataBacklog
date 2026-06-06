@@ -987,7 +987,7 @@
       "event": "Volta",
       "status": "progress",
       "cover": {
-        "type": "file",
+        "type": "github",
         "path": "covers/set_mpbgu57d6je3p.jpg"
       },
       "photos": [
