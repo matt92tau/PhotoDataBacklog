@@ -1012,7 +1012,7 @@
       "event": "Volta",
       "status": "progress",
       "cover": {
-        "type": "file",
+        "type": "github",
         "path": "covers/set_mpbgzzwydd9hy.jpg"
       },
       "photos": [
