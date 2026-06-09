@@ -328,7 +328,10 @@
       "shootDate": "2025-09-28",
       "event": "Focus",
       "status": "todo",
-      "cover": null,
+      "cover": {
+        "type": "github",
+        "path": "covers/set_mpa8gd5k8mefd.jpg"
+      },
       "photos": [
         "DSC00859",
         "DSC00877",
