@@ -327,9 +327,16 @@
       "socialUrl": "https://www.instagram.com/kurama.usagi",
       "shootDate": "2025-09-28",
       "event": "Focus",
-      "status": "not-selected",
+      "status": "todo",
       "cover": null,
-      "photos": [],
+      "photos": [
+        "DSC00859",
+        "DSC00877",
+        "DSC00947",
+        "DSC00956",
+        "DSC01080",
+        "DSC01104"
+      ],
       "notes": "",
       "createdAt": 1779050030744,
       "editStatus": {}
