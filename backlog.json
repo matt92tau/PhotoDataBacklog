@@ -1046,7 +1046,9 @@
       ],
       "notes": "",
       "createdAt": 1779124849810,
-      "editStatus": {}
+      "editStatus": {
+        "DSC04008": "done"
+      }
     },
     {
       "id": "set_mpbh34qm84lw6",
