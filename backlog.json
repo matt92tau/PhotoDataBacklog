@@ -1161,7 +1161,10 @@
       ],
       "notes": "",
       "createdAt": 1779125724185,
-      "editStatus": {}
+      "editStatus": {
+        "DSC04865": "done",
+        "DSC04717": "done"
+      }
     },
     {
       "id": "set_mpbhn0peark56",
